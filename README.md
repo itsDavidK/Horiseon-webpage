@@ -1,5 +1,5 @@
-# module-1-challenge
-Module-1-Challenge is a landing webpage for a company. It is supposed to inform interested customers about their service.
+# Horiseon-webpage
+Horiseon webpage is a landing webpage for a company. It is supposed to inform interested customers about their service.
 The original code was full of semantic html errors and unorderly css. The job done on this project was mainly cleaning up the code 
 for readability, and to prevent future bugs.
 
