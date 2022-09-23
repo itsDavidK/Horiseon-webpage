@@ -12,4 +12,4 @@ Please make sure to update tests as appropriate.
 <img src="screenshot.png">
 
 ## Link To The Website
-https://itsdavidk.github.io/module-1-challenge/
+https://itsdavidk.github.io/Horiseon-webpage/
